@@ -110,3 +110,16 @@ float: left;
   font-size: 0;
 }
 
+button{
+	padding: 14px;
+	font-size: 27px;
+
+
+}
+
+#numbers{
+	border-color: black;
+	font-size: 45px;
+	
+}
+
